@@ -1,5 +1,5 @@
 /*Write a program that takes an integer as input and returns true if the
- input isa power of two.*/
+ input is a power of two.*/
 #include <stdio.h>
 #include <stdbool.h>
 
